@@ -8,9 +8,9 @@ def decoretor_fun(orginal_fun):
 def sum():
 	print "TEST"
 
-#sum()
+sum()
 
-
+print "--------------------------------- \n";
 dec = decoretor_fun(sum)
 dec()
 
