@@ -15,8 +15,14 @@ weather_df.describe()
 
 ##Indexing
 weather_df.index
-df.set_index( "day" ,inplace=True)
-df
+
+
+
+weather_df.set_index( "day")
+weather_df
+
+weather_df.set_index( "day" ,inplace=True)
+weather_df
 
 
 
