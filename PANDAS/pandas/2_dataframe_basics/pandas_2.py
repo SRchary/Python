@@ -13,6 +13,12 @@ weather_df['day'] ## weather_df.day
 weather_df[weather_df.temperature >= weather_df["temperature"].mean()]
 weather_df.describe()
 
+##Indexing
+weather_df.index
+df.set_index( "day" ,inplace=True)
+df
+
+
 
 
 
