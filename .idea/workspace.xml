@@ -1,7 +1,190 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7242dd3-4e09-4eff-88fc-c83ea163b6c8" name="Default Changelist" comment="" />
+    <list default="true" id="c7242dd3-4e09-4eff-88fc-c83ea163b6c8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Advanced/decorators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/13_read_write_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/14_json_addressbook.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/16_exception.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/17_class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/18_inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/19_multiple_inheritance.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/20_raise_exception.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/21_iterators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/22_Generators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/address.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/area.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/caller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/dict_tuple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/for.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/if.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/lists" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/myprogram.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/variable_numbers_strings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/word_occurences.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Debugging/conditional_breakpoint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Debugging/debugging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Debugging/expenses.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Debugging/watches_callstack.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/10_svm/10_svm.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/10_svm/Exercise/10_svm_exercise_digits.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/10_svm/iris_petal_sepal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/11_random_forest/11_random_forest.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/11_random_forest/Exercise/random_forest_exercise.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/11_random_forest/forest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/11_random_forest/iris.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/12_KFold_Cross_Validation/12_k_fold.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/12_KFold_Cross_Validation/Exercise/exercise_kfold_validation.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/1_linear_reg/1_linear_regression.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/1_linear_reg/Exercise/canada_per_capita_income.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/1_linear_reg/areas.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/1_linear_reg/different_lines.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/1_linear_reg/equation.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/1_linear_reg/error_equation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/1_linear_reg/homeprices.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/1_linear_reg/homepricetable.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/1_linear_reg/linear_equation.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/1_linear_reg/prediction.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/1_linear_reg/scatterplot.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/2_linear_reg_multivariate/2_linear_regression_multivariate.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/2_linear_reg_multivariate/Exercise/exercise_answer.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/2_linear_reg_multivariate/Exercise/hiring.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/2_linear_reg_multivariate/equation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/2_linear_reg_multivariate/general_equation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/2_linear_reg_multivariate/home_equation.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/2_linear_reg_multivariate/homeprices.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/2_linear_reg_multivariate/homeprices.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/3_gradient_descent/Exercise/ex_gradient_descent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/3_gradient_descent/Exercise/test_scores.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/3_gradient_descent/gradient_descent.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/3_gradient_descent/gradient_descent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/4_save_model/4_save_and_load_model_using_pickle.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/4_save_model/homeprices.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/4_save_model/model_joblib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/4_save_model/model_pickle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/5_one_hot_encoding/Exercise/carprices.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/5_one_hot_encoding/Exercise/exercise_one_hot_encoding.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/5_one_hot_encoding/homeprices.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/5_one_hot_encoding/one_hot_encoding.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/6_train_test_split/carprices.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/6_train_test_split/train_test_split.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/7_logistic_reg/7_logistic_regression.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/7_logistic_reg/Exercise/7_logistic_regression_exercise.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/7_logistic_reg/Exercise/HR_comma_sep.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/7_logistic_reg/insurance_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/8_logistic_reg_multiclass/8_logistic_regression_multiclass.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/8_logistic_reg_multiclass/iris_petal_sepal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/9_decision_tree/9_decision_tree.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/9_decision_tree/Exercise/9_decision_tree_exercise.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/9_decision_tree/Exercise/titanic.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/9_decision_tree/salaries.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Modules/argparse_tutorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Modules/pandas_tutorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Modules/urllib_demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Multiprocessing/multiprocessing_introduction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Multiprocessing/multiprocessing_lock.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Multiprocessing/multiprocessing_pool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Multiprocessing/multiprocessing_queue_pipe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Multiprocessing/multiprocessing_value_array.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Multiprocessing/multithreading_producer_consumer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Multiprocessing/multthreading_introduction.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/jupyter/jupyter_architecture.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/jupyter/jupyter_stocks.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/jupyter/pandas_tutorial_on_stock_price.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/jupyter/pandas_tutorial_on_stock_price.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/jupyter/python_pandas_notebook.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/matpltlib/10_subplots.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/matpltlib/1_intro/1_matplotlib_introduction.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/matpltlib/2_format_strings/2_matplotlib_format_strings.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/matpltlib/3_legends_grid_axes_labels/3_legends_grid_axes_labels.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/matpltlib/4_bar_chart/4_bar_chart.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/matpltlib/5_histogram/5_histogram.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/matpltlib/6_pie_chart/6_pie_chart.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/matpltlib/7_save_chart/7_exercise_save_chart.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/matpltlib/7_save_chart/7_saving_chart_to_file.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/matpltlib/7_save_chart/piechart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/numpy/nditer.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/numpy/numpy_tutorail_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/numpy/numpy_tutorial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/10_pivot/pandas_pivot.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/10_pivot/weather.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/10_pivot/weather2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/10_pivot/weather3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/11_melt/pandas_melt_tutorial.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/11_melt/weather.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/12_stack/12_pandas_stack.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/12_stack/stocks.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/12_stack/stocks_3_levels.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/13_crosstab/pandas_crosstab.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/13_crosstab/survey.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/14_ts_datetimeindex/aapl.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/14_ts_datetimeindex/pandas_ts_datetime_index.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/15_ts_date_range/aapl.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/15_ts_date_range/aapl_no_dates.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/15_ts_date_range/pandas_ts_date_range.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/16_ts_holidays/aapl.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/16_ts_holidays/aapl_no_dates.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/16_ts_holidays/pandas_ts_holidays_custombusinessday.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/17_ts_to_date_time/pandas_ts_to_date_time.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/18_ts_period/pandas_ts_period.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/18_ts_period/wmt.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/19_ts_timezone/alignment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/19_ts_timezone/msft.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/19_ts_timezone/pandas_timezone_handling.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/19_ts_timezone/timezones_world_map.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/1_intro/Pandas_introduction.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/1_intro/nyc_weather.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/1_intro/pandas_intro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/20_shift_lag/fb.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/20_shift_lag/pandas_shift_lag.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/20_shift_lag/shift_image.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/21_sql/conn_string_format.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/21_sql/customers.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/21_sql/db_tables.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/21_sql/pandas_sql.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/2_dataframe_basics/dataframe_basics.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/2_dataframe_basics/weather_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/3_different_ways_of_creating_dataframe/pandas_different_ways_of_creating_dataframe.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/3_different_ways_of_creating_dataframe/weather_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/3_different_ways_of_creating_dataframe/weather_data.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/4_read_write_to_excel/new.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/4_read_write_to_excel/new.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/4_read_write_to_excel/read_write_csv_excel.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/4_read_write_to_excel/read_write_excel_file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/4_read_write_to_excel/stock_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/4_read_write_to_excel/stock_data.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/4_read_write_to_excel/stocks_weather.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/5_handling_missing_data_fillna_dropna_interpolate/Untitled.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/5_handling_missing_data_fillna_dropna_interpolate/handling_missing_data_fillna_dropna_interpolate.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/5_handling_missing_data_fillna_dropna_interpolate/missing_data.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/5_handling_missing_data_fillna_dropna_interpolate/weather_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/5_handling_missing_data_fillna_dropna_interpolate/weather_data.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/6_handling_missing_data_replace/handling_missing_data_replace.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/6_handling_missing_data_replace/weather_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/7_group_by/group_by_cities.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/7_group_by/pandas_group_by.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/7_group_by/split_apply_combine.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/7_group_by/weather_by_cities.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/8_concat/pandas_concat.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/9_merge/db_joins.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/9_merge/pandas_merge.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/contents.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/unittesting_pytest/custom_markers/mathlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/unittesting_pytest/custom_markers/test_mathlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/unittesting_pytest/fixtures/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/unittesting_pytest/fixtures/mydb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/unittesting_pytest/fixtures/test_mydb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/unittesting_pytest/init.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/unittesting_pytest/parametrize/mathlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/unittesting_pytest/parametrize/test_mathlib.py" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,47 +195,54 @@
     <session id="-1920244697">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="1" />
+          <entry key="py" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="1" />
+          <entry key="Python" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="366" />
+          <entry key="py" value="466" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="366" />
+          <entry key="Python" value="466" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/oops/cls.py">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PANDAS/pandas/2_dataframe_basics/pandas_2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+            <state relative-caret-position="136">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
-                <marker date="1547989562204" expanded="true" signature="14:15" ph="..." />
-                <marker date="1547989562204" expanded="true" signature="14:20" ph="..." />
+                <element signature="e#1#20#0" expanded="true" />
               </folding>
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/django/first/manage.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -71,10 +261,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/oops/cls.py" />
+        <option value="$PROJECT_DIR$/PANDAS/pandas/2_dataframe_basics/pandas_2.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1040" />
@@ -85,7 +276,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -93,10 +283,29 @@
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="PANDAS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="PANDAS" type="462c0819:PsiDirectoryNode" />
+              <item name="pandas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="PANDAS" type="462c0819:PsiDirectoryNode" />
+              <item name="pandas" type="462c0819:PsiDirectoryNode" />
+              <item name="2_dataframe_basics" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -160,20 +369,64 @@
       <option name="project" value="LOCAL" />
       <updated>1547989580003</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fg">
+      <created>1548584066575</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1548584066575</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fg">
+      <created>1548585053007</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1548585053007</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fg">
+      <created>1548588009143</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1548588009143</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fg">
+      <created>1548589022509</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1548589022509</updated>
+    </task>
+    <task id="LOCAL-00006" summary="fg">
+      <created>1548589069990</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1548589069990</updated>
+    </task>
+    <task id="LOCAL-00007" summary="fg">
+      <created>1548589179650</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1548589179650</updated>
+    </task>
+    <task id="LOCAL-00008" summary="fg">
+      <created>1548589685201</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1548589685201</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1040" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26020408" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32843137" />
@@ -181,11 +434,15 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="R Packages" />
-      <window_info anchor="right" id="R Graphics" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33660132" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -199,13 +456,22 @@
     <entry file="file://$PROJECT_DIR$/oops/cls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="24" lean-forward="true" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PANDAS/pandas/2_dataframe_basics/pandas_2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
-            <marker date="1547989562204" expanded="true" signature="14:15" ph="..." />
-            <marker date="1547989562204" expanded="true" signature="14:20" ph="..." />
+            <element signature="e#1#20#0" expanded="true" />
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/first/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
