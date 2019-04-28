@@ -1,0 +1,71 @@
+{% extends "main/main.html" %}
+
+{%  block container %}
+<div class="row">
+    <div class="col-sm-4">
+      <h3>Column 1</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Column 2</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Column 3</h3>        
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+    </div>
+  </div>
+
+ <div class='row' >
+    
+     <form  method="POST" action=''   >
+      
+      {% csrf_token %}
+      <div class='row' >
+  <div  class="col-md-4  form-group">
+    <label for="author_name" >Author Name</label>
+    <input type="text" class="form-control" id="author_name" aria-describedby="emailHelp" value='{{ author_details.author_name }}' >
+    
+  </div>
+</div>
+<div class='row' >
+  <div class="row form-group col-md-4 ">
+    <label for="author_email">Email </label>
+    <input type="text" id='author_email' class="form-control" name="author_email"  value='{{ author_details.author_email }}' >
+  </div>
+
+</div>
+<div class='row' >
+  
+<div class="form-group col-md-4 ">
+    <label for="author_phone">Phone </label>
+    <input type="text" class="form-control" id ='author_phone'name="author_phone"  value='{{ author_details.author_phone }}' >
+  </div>
+
+</div>
+<div class='row' >
+  
+<div class=" col-md-4 form-group">
+    <label for="author_address">Address </label>
+    <textarea id='author_address' name="author_address" >{{ author_details.author_address }}' </textarea>
+  </div>
+
+</div>
+<div class='row' >
+
+<div class=" col-md-4 form-group">
+    
+  <button type="submit" class="btn btn-primary">Submit</button> 
+   </div>
+  
+</div>
+</form>
+
+    
+</div>
+
+  {% endblock %}
+
