@@ -1,8 +1,12 @@
 {% extends "main/main.html" %}
 
 {%  block container %}
-<div class="row">
-    <div class="col-sm-4">
+
+  <div class='row' >
+
+      <div class="col-md-12" >
+
+       <div class="col-sm-4">
       <h3>Column 1</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
@@ -13,12 +17,12 @@
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
     </div>
     <div class="col-sm-4">
-      <h3>Column 3</h3>        
+      <h3>Column 3</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
       <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
     </div>
   </div>
-  <div class='row' >
+
     <div class="col-md-12" >
       <!--all_authors-->
       <table class="table table-striped">
@@ -40,7 +44,7 @@
             <td>{{author.author_phone}}</td>
 
             <td>
-              <a href='author_view/{{ author.id }}'> View </a>
+              <a href="view/{{ author.id }}"> View </a>
               <a href="edit/{{ author.id }}"> Edit</a>
               <a href="author_delete/{{ author.id }}"> Delete</a>
 
