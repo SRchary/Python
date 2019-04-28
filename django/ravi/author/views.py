@@ -22,6 +22,8 @@ def add(request):
 def edit(request ,author_id=0):
 	context ={"title":"Authors"}
 	template ="author/edit.html"
+
+
 	'''
 	author_details  = author_m.objects.get(id=author_id)
 	form = author_f(request.POST or None, instance=author_details)
@@ -38,7 +40,13 @@ def edit(request ,author_id=0):
 
 
 def view(request ,author_id=0):
-	print(author_id)
+	#print(author_id)
 	context ={"title":"Authors"}
-	template ="author/edit.html"
+	context['author_details'] = False
+	if author_id > 0:
+		context['author_details'] = author_m.objects.get(id=author_id)
+		print(context['author_details'])
+
+	template ="author/view.html"
+	print(context)
 	return render(request ,template ,context)		

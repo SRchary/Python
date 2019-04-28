@@ -21,7 +21,7 @@ urlpatterns = [
     path('', author_views.index ,name='author_index'),
     path('add', author_views.add ,name='author_add'),
     path('edit/<int:author_id>/', author_views.edit ),
-    path('view/<int:author_id>/', author_views.edit ,name='author_view'),
+    path('view/<int:author_id>/', author_views.view ,name='author_view'),
 
     
 ]
