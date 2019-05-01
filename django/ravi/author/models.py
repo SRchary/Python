@@ -16,8 +16,10 @@ class AuthorModel(models.Model):
 	author_phone    = models.CharField(max_length =12)
 	author_email    = models.EmailField(max_length =50 ,unique=True ,validators=[Validate_email])
 	author_address  = models.TextField(max_length =250)
-	created_on      = models.DateField(auto_now_add =False ,default =timezone.now)
-	updated_on      = models.DateField( auto_now =True ,auto_now_add =False  )
+
+	dob             = models.DateField(auto_now_add =False ,default =timezone.now)
+	created_on      = models.DateTimeField(auto_now_add =True)
+	updated_on      = models.DateTimeField( auto_now =True )
 
 
 
