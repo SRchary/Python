@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</head>
+<body>
+
+<div class="container">
+<h2>{{title}}</h2>
+
+<form  action=""  method="POST"  >
+  {% csrf_token %}
+  <div class="form-row">
+    <div class="form-group col-md-6  {%  if contact_form.name.errors %} has-error  {% endif %} ">
+      <label for='{{contact_form.name.id_for_label}}'>Name</label>
+      {{contact_form.name}}
+      <span class="help-block text-danger" >{{contact_form.name.errors }}</span>
+    </div>
+
+    <div class="form-group col-md-6 {%  if contact_form.email.errors %} has-error  {% endif %}">
+      <label for="{{contact_form.email.id_for_label}}">Email</label>
+      {{contact_form.email}}
+      <span class="help-block text-danger" >{{contact_form.email.errors }}</span>
+
+
+    </div>
+
+  </div>
+  <div class="form-group  {%  if contact_form.address1.errors %} has-error  {% endif %} ">
+    <label for="{{contact_form.address1.id_for_label}}">Address</label>
+    {{contact_form.address1}}
+    <span class="help-block text-danger" >{{contact_form.address1.errors }}</span>
+  </div>
+  <div class="form-group {%  if contact_form.address2.errors %} has-error  {% endif %}">
+    <label for="{{contact_form.address2.id_for_label}}">Address</label>
+    {{contact_form.address2}}
+    <span class="help-block text-danger" >{{contact_form.address2.errors }}</span>
+  </div>
+  <div class="form-row {%  if contact_form.city.errors %} has-error  {% endif %} ">
+    <div class="form-group col-md-6">
+      <label for="{{contact_form.city.id_for_label}}">City</label>
+      {{contact_form.city}}
+      <span class="help-block text-danger" >{{contact_form.city.errors }}</span>
+    </div>
+
+    <div class="form-group col-md-4 {%  if contact_form.zip.errors %} has-error  {% endif %}">
+      <label for="{{contact_form.zip.id_for_label}}">Zip</label>
+      {{contact_form.zip}}
+      <span class="help-block text-danger" >{{contact_form.zip.errors }}</span>
+    </div>
+  </div>
+  <div class="form-group">
+    <div class="form-check">
+
+        {{contact_form.send_email}}
+      <label class="form-check-label" for="{{contact_form.send_email.id_for_label}}">
+        Check me out
+      </label>
+
+        <span class="help-block text-danger" >{{contact_form.send_email.errors }}</span>
+    </div>
+  </div>
+  <button type="submit" class="btn btn-primary">Save</button>
+
+</form>
+
+</div>
+</body>
+</html>
