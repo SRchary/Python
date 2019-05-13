@@ -16,12 +16,20 @@ class Language(models.Model):
         return self.name
 
 
+class Projects(models.Model):
+    project_name =models.CharField(max_length =20)
+
+    def __srt__(self):
+        return self.project_name
+
+
 
 class Employe(models.Model):
     name  = models.CharField(max_length =50)
     employe_id =models.CharField(max_length=10)
     company = models.ForeignKey(Company ,on_delete =models.CASCADE )
     languages =models.ManyToManyField(Language)
+    projects = models.ManyToManyField(Projects)
 
     def __str__(self):
         return self.name
