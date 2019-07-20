@@ -20,7 +20,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # See https://docs.djangoproject.com/en/2.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'z1^pmv&qd=ehcrdnvtz+o-#efcr7e-88*fm_9hg3@-c*2i#0l)'
+SECRET_KEY = '8_7mbpsk%85-f%2mqwt8gp3%524c$l_j273i18sh)pbh3mwckm'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -37,10 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'home',
-    'article',
-    'author',
-    'publisher',
+    'blog',
 ]
 
 MIDDLEWARE = [
@@ -58,7 +55,7 @@ ROOT_URLCONF = 'ravi.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['templates'],
+        'DIRS': [],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [

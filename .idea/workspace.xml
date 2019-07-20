@@ -1,189 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c7242dd3-4e09-4eff-88fc-c83ea163b6c8" name="Default Changelist" comment="">
+    <list default="true" id="c7242dd3-4e09-4eff-88fc-c83ea163b6c8" name="Default Changelist" comment="django project">
+      <change afterPath="$PROJECT_DIR$/django/ra/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Advanced/decorators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/13_read_write_file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/14_json_addressbook.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/16_exception.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/17_class.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/18_inheritance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/19_multiple_inheritance.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/20_raise_exception.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/21_iterators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/22_Generators.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/address.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/area.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/caller.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/dict_tuple.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/for.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/functions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/if.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/lists" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/myprogram.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/test.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/variable_numbers_strings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Basics/word_occurences.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Debugging/conditional_breakpoint.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Debugging/debugging.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Debugging/expenses.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Debugging/watches_callstack.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/10_svm/10_svm.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/10_svm/Exercise/10_svm_exercise_digits.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/10_svm/iris_petal_sepal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/11_random_forest/11_random_forest.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/11_random_forest/Exercise/random_forest_exercise.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/11_random_forest/forest.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/11_random_forest/iris.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/12_KFold_Cross_Validation/12_k_fold.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/12_KFold_Cross_Validation/Exercise/exercise_kfold_validation.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/1_linear_reg/1_linear_regression.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/1_linear_reg/Exercise/canada_per_capita_income.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/1_linear_reg/areas.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/1_linear_reg/different_lines.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/1_linear_reg/equation.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/1_linear_reg/error_equation.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/1_linear_reg/homeprices.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/1_linear_reg/homepricetable.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/1_linear_reg/linear_equation.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/1_linear_reg/prediction.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/1_linear_reg/scatterplot.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/2_linear_reg_multivariate/2_linear_regression_multivariate.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/2_linear_reg_multivariate/Exercise/exercise_answer.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/2_linear_reg_multivariate/Exercise/hiring.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/2_linear_reg_multivariate/equation.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/2_linear_reg_multivariate/general_equation.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/2_linear_reg_multivariate/home_equation.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/2_linear_reg_multivariate/homeprices.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/2_linear_reg_multivariate/homeprices.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/3_gradient_descent/Exercise/ex_gradient_descent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/3_gradient_descent/Exercise/test_scores.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/3_gradient_descent/gradient_descent.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/3_gradient_descent/gradient_descent.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/4_save_model/4_save_and_load_model_using_pickle.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/4_save_model/homeprices.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/4_save_model/model_joblib" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/4_save_model/model_pickle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/5_one_hot_encoding/Exercise/carprices.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/5_one_hot_encoding/Exercise/exercise_one_hot_encoding.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/5_one_hot_encoding/homeprices.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/5_one_hot_encoding/one_hot_encoding.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/6_train_test_split/carprices.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/6_train_test_split/train_test_split.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/7_logistic_reg/7_logistic_regression.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/7_logistic_reg/Exercise/7_logistic_regression_exercise.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/7_logistic_reg/Exercise/HR_comma_sep.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/7_logistic_reg/insurance_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/8_logistic_reg_multiclass/8_logistic_regression_multiclass.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/8_logistic_reg_multiclass/iris_petal_sepal.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/9_decision_tree/9_decision_tree.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/9_decision_tree/Exercise/9_decision_tree_exercise.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/9_decision_tree/Exercise/titanic.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/ML/9_decision_tree/salaries.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Modules/argparse_tutorial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Modules/pandas_tutorial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Modules/urllib_demo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Multiprocessing/multiprocessing_introduction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Multiprocessing/multiprocessing_lock.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Multiprocessing/multiprocessing_pool.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Multiprocessing/multiprocessing_queue_pipe.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Multiprocessing/multiprocessing_value_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Multiprocessing/multithreading_producer_consumer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/Multiprocessing/multthreading_introduction.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/jupyter/jupyter_architecture.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/jupyter/jupyter_stocks.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/jupyter/pandas_tutorial_on_stock_price.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/jupyter/pandas_tutorial_on_stock_price.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/jupyter/python_pandas_notebook.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/matpltlib/10_subplots.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/matpltlib/1_intro/1_matplotlib_introduction.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/matpltlib/2_format_strings/2_matplotlib_format_strings.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/matpltlib/3_legends_grid_axes_labels/3_legends_grid_axes_labels.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/matpltlib/4_bar_chart/4_bar_chart.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/matpltlib/5_histogram/5_histogram.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/matpltlib/6_pie_chart/6_pie_chart.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/matpltlib/7_save_chart/7_exercise_save_chart.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/matpltlib/7_save_chart/7_saving_chart_to_file.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/matpltlib/7_save_chart/piechart.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/numpy/nditer.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/numpy/numpy_tutorail_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/numpy/numpy_tutorial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/10_pivot/pandas_pivot.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/10_pivot/weather.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/10_pivot/weather2.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/10_pivot/weather3.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/11_melt/pandas_melt_tutorial.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/11_melt/weather.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/12_stack/12_pandas_stack.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/12_stack/stocks.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/12_stack/stocks_3_levels.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/13_crosstab/pandas_crosstab.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/13_crosstab/survey.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/14_ts_datetimeindex/aapl.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/14_ts_datetimeindex/pandas_ts_datetime_index.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/15_ts_date_range/aapl.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/15_ts_date_range/aapl_no_dates.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/15_ts_date_range/pandas_ts_date_range.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/16_ts_holidays/aapl.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/16_ts_holidays/aapl_no_dates.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/16_ts_holidays/pandas_ts_holidays_custombusinessday.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/17_ts_to_date_time/pandas_ts_to_date_time.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/18_ts_period/pandas_ts_period.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/18_ts_period/wmt.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/19_ts_timezone/alignment.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/19_ts_timezone/msft.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/19_ts_timezone/pandas_timezone_handling.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/19_ts_timezone/timezones_world_map.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/1_intro/Pandas_introduction.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/1_intro/nyc_weather.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/1_intro/pandas_intro.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/20_shift_lag/fb.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/20_shift_lag/pandas_shift_lag.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/20_shift_lag/shift_image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/21_sql/conn_string_format.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/21_sql/customers.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/21_sql/db_tables.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/21_sql/pandas_sql.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/2_dataframe_basics/dataframe_basics.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/2_dataframe_basics/weather_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/3_different_ways_of_creating_dataframe/pandas_different_ways_of_creating_dataframe.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/3_different_ways_of_creating_dataframe/weather_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/3_different_ways_of_creating_dataframe/weather_data.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/4_read_write_to_excel/new.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/4_read_write_to_excel/new.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/4_read_write_to_excel/read_write_csv_excel.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/4_read_write_to_excel/read_write_excel_file.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/4_read_write_to_excel/stock_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/4_read_write_to_excel/stock_data.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/4_read_write_to_excel/stocks_weather.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/5_handling_missing_data_fillna_dropna_interpolate/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/5_handling_missing_data_fillna_dropna_interpolate/handling_missing_data_fillna_dropna_interpolate.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/5_handling_missing_data_fillna_dropna_interpolate/missing_data.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/5_handling_missing_data_fillna_dropna_interpolate/weather_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/5_handling_missing_data_fillna_dropna_interpolate/weather_data.xls" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/6_handling_missing_data_replace/handling_missing_data_replace.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/6_handling_missing_data_replace/weather_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/7_group_by/group_by_cities.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/7_group_by/pandas_group_by.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/7_group_by/split_apply_combine.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/7_group_by/weather_by_cities.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/8_concat/pandas_concat.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/9_merge/db_joins.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/9_merge/pandas_merge.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/pandas/contents.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/unittesting_pytest/custom_markers/mathlib.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/unittesting_pytest/custom_markers/test_mathlib.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/unittesting_pytest/fixtures/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/unittesting_pytest/fixtures/mydb.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/unittesting_pytest/fixtures/test_mydb.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/unittesting_pytest/init.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/unittesting_pytest/parametrize/mathlib.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/PANDAS/py-master/unittesting_pytest/parametrize/test_mathlib.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/article/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/article/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/article/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/article/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/article/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/article/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/article/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/article/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/author/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/author/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/author/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/author/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/author/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/author/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/author/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/author/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/author/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/author/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/django/ravi/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/home/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/home/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/home/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/home/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/home/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/home/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/home/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/home/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/publisher/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/publisher/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/publisher/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/publisher/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/publisher/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/publisher/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/publisher/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/publisher/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/ravi/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/ravi/ravi/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/ravi/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/ravi/ravi/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/templates/article/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/templates/author/add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/templates/author/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/templates/author/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/templates/author/view.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/templates/home/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/templates/main/home/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/templates/main/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/ravi/templates/publisher/index.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -191,58 +57,42 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1920244697">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.28" value="1" />
-          <entry key="project.open.time.29" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="py" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="Python" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="py" value="466" />
-          <entry key="txt" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="466" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PANDAS/pandas/2_dataframe_basics/pandas_2.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/django/ra/relation/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-              <folding>
-                <element signature="e#1#20#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="80">
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/django/first/manage.py">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/django/ra/relation/migrations/0001_initial.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="28" column="81" selection-start-line="28" selection-start-column="73" selection-end-line="28" selection-end-column="81" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/django/ra/relation/migrations/0002_auto_20190513_1610.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="26" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/django/ra/ra/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -250,9 +100,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>author_f</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -262,44 +118,51 @@
       <list>
         <option value="$PROJECT_DIR$/oops/cls.py" />
         <option value="$PROJECT_DIR$/PANDAS/pandas/2_dataframe_basics/pandas_2.py" />
+        <option value="$PROJECT_DIR$/django/ravi/templates/author/index.html" />
+        <option value="$PROJECT_DIR$/django/ravi/author/forms.py" />
+        <option value="$PROJECT_DIR$/django/ravi/author/views.py" />
+        <option value="$PROJECT_DIR$/django/ravi/templates/author/view.html" />
+        <option value="$PROJECT_DIR$/django/ravi/author/urls.py" />
+        <option value="$PROJECT_DIR$/django/ravi/author/models.py" />
+        <option value="$PROJECT_DIR$/django/ravi/author/admin.py" />
+        <option value="$PROJECT_DIR$/django/ra/home/urls.py" />
+        <option value="$PROJECT_DIR$/django/ra/ra/index.html" />
+        <option value="$PROJECT_DIR$/django/ra/ra/urls.py" />
+        <option value="$PROJECT_DIR$/django/ra/home/models.py" />
+        <option value="$PROJECT_DIR$/django/ra/home/views.py" />
+        <option value="$PROJECT_DIR$/django/ra/home/home_forms.py" />
+        <option value="$PROJECT_DIR$/django/ra/templates/home/index.html" />
+        <option value="$PROJECT_DIR$/django/ra/ra/settings.py" />
+        <option value="$PROJECT_DIR$/django/ra/relation/models.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1040" />
-    <option name="height" value="744" />
+    <option name="x" value="383" />
+    <option name="y" value="2" />
+    <option name="width" value="666" />
+    <option name="height" value="516" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Course" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="github" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="PANDAS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="PANDAS" type="462c0819:PsiDirectoryNode" />
-              <item name="pandas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="PANDAS" type="462c0819:PsiDirectoryNode" />
-              <item name="pandas" type="462c0819:PsiDirectoryNode" />
-              <item name="2_dataframe_basics" type="462c0819:PsiDirectoryNode" />
+              <item name="github" type="b2602c69:ProjectViewProjectNode" />
+              <item name="github" type="462c0819:PsiDirectoryNode" />
+              <item name="django" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -309,7 +172,17 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/django/ravi" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\github\django\ra\templates\home" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\github\django\ra\home" />
+      <recent name="F:\github\django\ravi\templates\author" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -424,7 +297,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26020408" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31437126" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -435,9 +308,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.33660132" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.44131455" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -445,12 +320,10 @@
       <window_info anchor="right" id="R Packages" order="4" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fg" />
-    <option name="LAST_COMMIT_MESSAGE" value="fg" />
+    <MESSAGE value="django project" />
+    <option name="LAST_COMMIT_MESSAGE" value="django project" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/oops/cls.py">
@@ -472,6 +345,175 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/django/first/manage.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/ravi/author/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="29" selection-end-line="23" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/ravi/templates/author/view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/ravi/author/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="81" selection-start-line="7" selection-start-column="81" selection-end-line="7" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/ravi/templates/author/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="28" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/ravi/author/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="64" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
+          <folding>
+            <element signature="e#629#666#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/ravi/ravi/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/ravi/author/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="106" selection-start-line="16" selection-start-column="94" selection-end-line="16" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/ravi/author/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" column="19" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/ravi/author/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="47" column="39" selection-start-line="47" selection-start-column="39" selection-end-line="47" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/ra/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-51" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/ra/home/home_forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="3" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/ra/home/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/ra/home/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="15" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/ra/templates/home/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="65" column="71" selection-start-line="65" selection-start-column="71" selection-end-line="65" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/ra/home/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="23" />
+          <folding>
+            <element signature="e#626#658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/ra/ra/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+          <folding>
+            <element signature="e#626#658#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/ra/relation/migrations/0003_auto_20190513_1631.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/ra/relation/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="28" column="81" selection-start-line="28" selection-start-column="73" selection-end-line="28" selection-end-column="81" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/ra/relation/migrations/0002_auto_20190513_1610.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/ra/ra/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/ravi/manage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/django/ra/relation/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

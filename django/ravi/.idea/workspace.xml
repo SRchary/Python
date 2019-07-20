@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="32602dfb-7e68-4112-9559-a3009c723d4b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ra/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/article/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/article/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/article/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/article/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/article/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/article/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/article/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/article/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/author/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/author/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/author/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/author/forms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/author/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/author/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/author/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/author/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/author/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/author/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publisher/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publisher/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publisher/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publisher/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publisher/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publisher/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publisher/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/publisher/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ravi/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ravi/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ravi/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ravi/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/article/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/author/add.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/author/edit.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/author/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/author/view.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/home/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main/home/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/main/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/publisher/index.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/blog/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="193">
+              <caret line="16" column="74" selection-start-line="16" selection-start-column="74" selection-end-line="16" selection-end-column="74" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/blog/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#32#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ravi/settings.py" />
+        <option value="$PROJECT_DIR$/blog/admin.py" />
+        <option value="$PROJECT_DIR$/blog/models.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="244" />
+    <option name="y" value="339" />
+    <option name="width" value="666" />
+    <option name="height" value="516" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ravi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ravi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ravi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ravi" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ravi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ravi" type="462c0819:PsiDirectoryNode" />
+              <item name="blog" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ravi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ravi" type="462c0819:PsiDirectoryNode" />
+              <item name="ravi" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ravi" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/blog" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/blog/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.models" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.249501" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.31298906" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286385" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286385" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://C:/python3.7.0/Lib/site-packages/django/db/models/fields/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21250">
+          <caret line="1287" column="25" selection-start-line="1287" selection-start-column="4" selection-end-line="1287" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ravi/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/migrations/0003_auto_20190712_1931.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/migrations/0002_auto_20190712_1911.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/migrations/0001_initial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="16" column="86" selection-start-line="16" selection-start-column="77" selection-end-line="16" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/blog/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="16" column="74" selection-start-line="16" selection-start-column="74" selection-end-line="16" selection-end-column="74" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
