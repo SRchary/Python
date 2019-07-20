@@ -56,7 +56,7 @@ Defination :
 Inner function can access outer function name space (  veriables  )  from out side of th outer function
 
 
-It means : inner function can remember the outer function veriables 
+It means : inner function can remember the outer function veriables  ofter deletion of inner function
 
 
 
