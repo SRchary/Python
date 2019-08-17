@@ -185,6 +185,31 @@
 	</div>
 
 	<!-- Intro -->
+	<dev style="background:cyan" >
+
+		{% if languages.count %}
+
+		{% for lan in languages%}
+		<div><h2>{{ forloop.counter }}->{{lan.name}}</h2></div>
+		{% if lan.framework_set %}
+			<ul>
+		    {% for fram in lan.framework_set.all %}
+				<li>-- {{
+
+
+
+
+
+					.counter }} ->{{fram.name}}</li>
+			{% endfor %}
+			</ul>
+		{%  endif%}
+
+
+		{%endfor%}
+		{%endif%}
+
+	</dev>
 
 	<div class="intro">
 		<div class="intro_background" style="background-image:url({% static 'images/intro.png' %} )"></div>
