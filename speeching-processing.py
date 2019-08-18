@@ -38,7 +38,7 @@ def greetMe():
     elif currentH >= 18 and currentH != 0:
         speak('Good Evening!')
 
-speak('Hello Sir, !')
+speak('Hello Python Developers, ! ' )
 greetMe()
 speak('How may I help you?')
 
